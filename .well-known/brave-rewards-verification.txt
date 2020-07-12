@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: insight-deviler.github.io
+Token: 37f2227b3f752b7b1364db07207834ba662eba276631ea72d9527b0c1dad3447
